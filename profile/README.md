@@ -1,4 +1,4 @@
-# Welcome to the Perl Cottage GuilD
+# Welcome to the Perl Cottage Guild
 
 Our aim is to provide a set of curated resources for making a living with Perl.
 
